@@ -1,0 +1,9 @@
+header{
+    background-color: green;
+    color: white
+}
+
+main > h2 {
+    background-color: aqua;
+    color: red
+}
