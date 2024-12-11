@@ -4,6 +4,6 @@ header{
 }
 
 main > h2 {
-    background-color: aqua;
-    color: red
+    background-color: red;
+    color: aqua;
 }
